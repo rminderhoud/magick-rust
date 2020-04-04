@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["magick_rust"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"magick_rust/struct.HSL.html\" title=\"struct magick_rust::HSL\">HSL</a>","synthetic":false,"types":["magick_rust::wand::pixel::HSL"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
